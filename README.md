@@ -11,7 +11,7 @@
 
 <h2>Surabhi Thakur says Hello.<img src="https://media4.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="50"></h2>
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+<!-- ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝙶𝚛𝚊𝚍𝚞𝚊𝚝𝚎.
@@ -19,6 +19,7 @@
 - 🖥️ 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙻𝚒𝚗𝚞𝚡 𝚜𝚘𝚖𝚎𝚝𝚒𝚖𝚎𝚜 [<img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/icons/linux.svg" height="30em" width="50em" align="center" alt="Linux Logo" title="Linux Logo"/>](https://www.linux.org/)
 
 ## :heart_on_fire: My Tech Stack
+-->
 
 <div align="left">
 <h3>Programing Language<h3>
@@ -28,22 +29,17 @@
 <img width="55" src="https://cdn.svgporn.com/logos/c-plusplus.svg" alt="C++" title="c++"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/python.svg" alt="Python" title="Python"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/dart.svg" alt="Dart" title="Dart"/>&nbsp;
-<img width="55" src="https://cdn.svgporn.com/logos/solidity.svg" alt="Solidty" title="Solidty"/>&nbsp;
-<img width="55" src="https://cdn.svgporn.com/logos/rust.svg" alt="Rust" title="Rust"/>
 </div>
 
 <div align="left">
 <h3>Frameworks & Libraries<h3>
-<img width="55" src="https://cdn.svgporn.com/logos/django-icon.svg" width="55em" alt="Django" title="Django"/>&nbsp;
-<img width="55" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" title="MongoDB"/>&nbsp;
-<img width="55" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="ExpressJS" title="ExpressJS"/>&nbsp;
+<!-- <img width="55" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" title="MongoDB"/>&nbsp; -->
 <img width="55" src="https://cdn.svgporn.com/logos/react.svg" alt="ReactJS" title="ReactJS"/>&nbsp;
-<img width="55" src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="NextJS" title="NextJS"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="Node" title="Node"/>
-<img width="55" src="https://cdn.svgporn.com/logos/flutter.svg" alt="Flutter" title="Flutter"/>&nbsp;
-<img width="55" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="TailwindCSS" title="TailwindCSS"/>
+
 </div>
 
+<!--
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
@@ -73,3 +69,4 @@
 ## ⚡ 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚌𝚘𝚘𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝚠𝚎𝚗𝚝 𝚒𝚗𝚝𝚘 𝚝𝚑𝚒𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚁𝙴𝙰𝙳𝙼𝙴
 
 - 𝙼𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎𝚍 𝚝𝚎𝚡𝚝 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚢𝚊𝚢𝚝𝚎𝚡𝚝.𝚌𝚘𝚖/𝚖𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎/](https://yaytext.com/monospace/)
+-->
