@@ -48,9 +48,11 @@
   - Excel in Full-stack web development
   - 𝙲𝚛𝚎𝚊𝚝𝚎 𝚊 𝚜𝚒𝚝𝚎 𝚏𝚘𝚛 𝚐𝚎𝚝𝚝𝚒𝚗𝚐 𝚌𝚎𝚛𝚝𝚒𝚏𝚒𝚎𝚍 𝚏𝚛𝚘𝚖 𝚈𝚘𝚞𝚝𝚞𝚋𝚎 𝚌𝚘𝚞𝚛𝚜𝚎𝚜
 
+  <!--
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
   - 𝙶𝚘 𝚘𝚗 𝚊𝚗 𝚊𝚍𝚟𝚎𝚗𝚝𝚞𝚛𝚎!
   - 𝙶𝚎𝚝 𝚊𝚗 𝚊𝚖𝚊𝚣𝚒𝚗𝚐 𝚓𝚘𝚋 (𝚒𝚏 𝚢𝚘𝚞 𝚑𝚊𝚟𝚎 𝚝𝚑𝚒𝚜 𝚙𝚘𝚠𝚎𝚛, 𝚙𝚕𝚎𝚊𝚜𝚎 𝚑𝚒𝚛𝚎 𝚖𝚎)
+ 
   
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎
@@ -67,4 +69,4 @@
   [<img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/icons/socials/instagram.png" height="40em" align="center" alt="Follow on Instagram" title="Follow on Instagram"/>]
   (https://instagram.com/)
 
-
+-->
