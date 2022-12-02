@@ -70,3 +70,5 @@
   (https://instagram.com/)
 
 -->
+
+![Surabhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=surabhi-99&show_icons=true&theme=transparent)
