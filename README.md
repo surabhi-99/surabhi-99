@@ -5,7 +5,7 @@
 -->
 
 
-<h2>Surabhi Thakur says Hello.<img src="https://media4.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="50"></h2>
+<h2> Hello there! I am Surabhi Thakur. <img src="https://media4.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="50"></h2>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
@@ -37,11 +37,13 @@
 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surabhi-99&label=Profile%20views&color=0e75b6&style=flat" alt="surabhi-99" /> </p>
+
 <p>
 <a align= "center" href="https://github.com/surabhi-99">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=surabhi-99&theme=radical">
 <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 </p>
+
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=surabhi-99&count_private=true&theme=radical&show_icons=true" />
 
 - 📫 How to reach me **surabhithakur.60@gmail.com**
