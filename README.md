@@ -62,9 +62,10 @@
 
   - Excel in Full-stack web development
   - Learn New Technologies and upgrade my skills
-
+  - Empower myself and others too
+  - Go on world tour
   
-  <!--
+
  
   
 
@@ -75,11 +76,11 @@
 
  
   [<img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/icons/socials/linkedin-circled.png" height="40em" align="center" alt="Follow on LinkedIn" title="Follow"/>]
-  (https://linkedin.com/in/)
+  (https://linkedin.com/in/surabhith99)
   [<img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/icons/socials/twitter.png" height="40em" align="center" alt="Follow on Twitter" title="Follow on Twitter"/>]
-  (https://twitter.com/)
+  (https://twitter.com/Surabhii16)
   
 
--->
+
 
 ![Surabhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=surabhi-99&show_icons=true&theme=transparent)
