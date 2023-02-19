@@ -9,9 +9,9 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-- 🖥 Front-end 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+- 🖥 MERN Stack 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 & problem slayer.
 - 🎓 Pursuing BTech in 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐.
-- 🎲 Passionate about AI, Web Dev, Android Dev and a problem slayer.
+- 🎲 Passionate about DSA, Web Development, AI and many more.
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋.
 
 ## 👩‍💻 My Tech Stack
