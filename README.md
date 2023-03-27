@@ -71,10 +71,10 @@
 ## 📫 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
  
-  [<img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/icons/socials/linkedin-circled.png" height="40em" align="center" alt="Follow on LinkedIn" title="Follow"/>]
-  (https://linkedin.com/in/surabhith99)
-  [<img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/icons/socials/twitter.png" height="40em" align="center" alt="Follow on Twitter" title="Follow on Twitter"/>]
-  (https://twitter.com/Surabhii16)
+  <img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/icons/socials/linkedin-circled.png" height="40em" align="center" alt="Follow on LinkedIn" title="Follow"/>
+  https://linkedin.com/in/surabhith99
+  <img src="https://github.com/l-fifa-l/l-fifa-l/blob/main/icons/socials/twitter.png" height="40em" align="center" alt="Follow on Twitter" title="Follow on Twitter"/>
+  https://twitter.com/Surabhii16
   
 
 
