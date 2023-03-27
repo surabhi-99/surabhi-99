@@ -45,11 +45,15 @@
 </p>
 
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=surabhi-99&count_private=true&theme=radical&show_icons=true" />
+  
 
 - 📫 How to reach me **surabhithakur.60@gmail.com**
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/surabhi?logo=twitter&style=for-the-badge" alt="surabhi" /></a> </p> -->
   
- 
+  
+ <img src="https://github-profile-trophy.vercel.app/?username=surabhi-99" alt="surabhi-99" />
+  
+  
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
