@@ -51,7 +51,13 @@
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/surabhi?logo=twitter&style=for-the-badge" alt="surabhi" /></a> </p> -->
   
   
+  
+  
  <img src="https://github-profile-trophy.vercel.app/?username=surabhi-99" alt="surabhi-99" />
+  
+  
+  
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushal-khare-official&show_icons=true&locale=en&layout=compact" alt="kushal-khare-official" /></p>
   
   
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
