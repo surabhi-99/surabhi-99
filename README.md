@@ -18,7 +18,7 @@
 
 
 <div align="left">
-<h3>Programing Language<h3>
+<h3>Programming Languages<h3>
 <img width="55" src="https://cdn.svgporn.com/logos/html-5.svg"  alt="HTML" title="HTML"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" title="CSS"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" title="JavaScript"/>&nbsp;
@@ -28,8 +28,8 @@
 </div>
 
 <div align="left">
-<h3>Frameworks & Libraries<h3>
-<!-- <img width="55" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" title="MongoDB"/>&nbsp; -->
+<h3>Web<h3>
+<img width="55" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" title="MongoDB"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/react.svg" alt="ReactJS" title="ReactJS"/>&nbsp;
 <img width="55" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="Node" title="Node"/>
 
