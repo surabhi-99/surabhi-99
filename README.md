@@ -14,7 +14,11 @@
 - 🎲 Passionate about DSA, Web Development, Blockchain, AI and many more.
 - 🌐 You can access all my open-source projects here on GitHub.
 
-📄 Know about my experiences: [**Resume.pdf**](https://drive.google.com/file/d/1VoIULDX5A-3JaOS3Jy5OOwqalxGZg9Tl/view?usp=sharing)
+📄 Know about my experiences: [**Resume**](https://drive.google.com/file/d/1VoIULDX5A-3JaOS3Jy5OOwqalxGZg9Tl/view?usp=sharing)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=surabhi-99&label=Profile%20views&color=0e75b6&style=flat" alt="surabhi-99" /> </p>
+
 
 ## 👩‍💻 My Tech Stack
 
@@ -37,8 +41,6 @@
 
 </div>
 
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surabhi-99&label=Profile%20views&color=0e75b6&style=flat" alt="surabhi-99" /> </p>
 
 <p>
 <a align= "center" href="https://github.com/surabhi-99">
@@ -47,18 +49,11 @@
 </p>
 
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=surabhi-99&count_private=true&theme=radical&show_icons=true" />
-  
 
-- 📫 How to reach me **surabhithakur.60@gmail.com**
-<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/surabhi?logo=twitter&style=for-the-badge" alt="surabhi" /></a> </p> -->
-
-<h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/kushalcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kushalcodes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kushalcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kushalcodes" height="30" width="40" /></a>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surabhi-99&show_icons=true&locale=en&layout=compact" alt="surabhi-99" /></p>
 
  <img src="https://github-profile-trophy.vercel.app/?username=surabhi-99" alt="surabhi-99" />
-  
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surabhi-99&show_icons=true&locale=en&layout=compact" alt="surabhi-99" /></p>
+
   
 <!-- ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 
@@ -74,7 +69,12 @@ Looking for full-time opportunity along with upgrading skills !
   - Learn New Technologies and upgrade my skills
   - Empower myself and others too
   - Go on world tour
-  
+
+
+- 📫 How to reach me **surabhithakur.60@gmail.com**
+<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/surabhi?logo=twitter&style=for-the-badge" alt="surabhi" /></a> </p> -->
+
+
 <!-- ## 📫 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
  
