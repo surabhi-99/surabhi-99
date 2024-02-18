@@ -48,13 +48,16 @@
 <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /></a>
 </p>
 
-<p>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=surabhi-99&count_private=true&theme=radical&show_icons=true"/>
-<p>
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surabhi-99&show_icons=true&locale=en&layout=compact&theme=radical" alt="surabhi-99" />
 </p>
+
+
+<p>
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=surabhi-99&count_private=true&theme=radical&show_icons=true"/>
+<p>
+
  
 
 <p>
