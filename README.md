@@ -45,15 +45,21 @@
 <p>
 <a align= "center" href="https://github.com/surabhi-99">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=surabhi-99&theme=radical">
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /></a>
 </p>
 
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=surabhi-99&count_private=true&theme=radical&show_icons=true" />
+<p>
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=surabhi-99&count_private=true&theme=radical&show_icons=true"/>
+<p>
 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surabhi-99&show_icons=true&locale=en&layout=compact&theme=radical" alt="surabhi-99" /></p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surabhi-99&show_icons=true&locale=en&layout=compact&theme=radical" alt="surabhi-99" />
+</p>
  
 
- <img src="https://github-profile-trophy.vercel.app/?username=surabhi-99&theme=radical" alt="surabhi-99" />
+<p>
+<img src="https://github-profile-trophy.vercel.app/?username=surabhi-99&theme=radical" alt="surabhi-99" />
+</p>
 
   
 <!-- ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
