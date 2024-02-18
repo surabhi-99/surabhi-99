@@ -14,6 +14,8 @@
 - 🎲 Passionate about DSA, Web Development, Blockchain, AI and many more.
 - 🌐 You can access all my open-source projects here on GitHub.
 
+📄 Know about my experiences: [**Resume.pdf**](https://drive.google.com/file/d/1VoIULDX5A-3JaOS3Jy5OOwqalxGZg9Tl/view?usp=sharing)
+
 ## 👩‍💻 My Tech Stack
 
 
@@ -49,16 +51,14 @@
 
 - 📫 How to reach me **surabhithakur.60@gmail.com**
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/surabhi?logo=twitter&style=for-the-badge" alt="surabhi" /></a> </p> -->
-  
-  
-  
-  
+
+<h3 align="left">Connect with me:</h3>
+<a href="https://twitter.com/kushalcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kushalcodes" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kushalcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kushalcodes" height="30" width="40" /></a>
+
  <img src="https://github-profile-trophy.vercel.app/?username=surabhi-99" alt="surabhi-99" />
   
-  
-  
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surabhi-99&show_icons=true&locale=en&layout=compact" alt="surabhi-99" /></p>
-  
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surabhi-99&show_icons=true&locale=en&layout=compact" alt="surabhi-99" /></p>
   
 <!-- ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 
@@ -75,9 +75,6 @@ Looking for full-time opportunity along with upgrading skills !
   - Empower myself and others too
   - Go on world tour
   
-
- 
-
 <!-- ## 📫 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
  
