@@ -75,7 +75,7 @@ Looking for full-time opportunity along with upgrading skills !
 
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘
 
-  - Excel in Full-stack web development
+  - Excel in Full-stack development
   - Learn New Technologies and upgrade my skills
   - Empower myself and others too
   - Go on world tour
